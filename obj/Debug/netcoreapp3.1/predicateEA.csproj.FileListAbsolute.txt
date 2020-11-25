@@ -1,0 +1,13 @@
+C:\Users\1255968\Desktop\prog\C#\predicateEA\predicateEA\bin\Debug\netcoreapp3.1\predicateEA.exe
+C:\Users\1255968\Desktop\prog\C#\predicateEA\predicateEA\bin\Debug\netcoreapp3.1\predicateEA.deps.json
+C:\Users\1255968\Desktop\prog\C#\predicateEA\predicateEA\bin\Debug\netcoreapp3.1\predicateEA.runtimeconfig.json
+C:\Users\1255968\Desktop\prog\C#\predicateEA\predicateEA\bin\Debug\netcoreapp3.1\predicateEA.runtimeconfig.dev.json
+C:\Users\1255968\Desktop\prog\C#\predicateEA\predicateEA\bin\Debug\netcoreapp3.1\predicateEA.dll
+C:\Users\1255968\Desktop\prog\C#\predicateEA\predicateEA\bin\Debug\netcoreapp3.1\predicateEA.pdb
+C:\Users\1255968\Desktop\prog\C#\predicateEA\predicateEA\obj\Debug\netcoreapp3.1\predicateEA.csprojAssemblyReference.cache
+C:\Users\1255968\Desktop\prog\C#\predicateEA\predicateEA\obj\Debug\netcoreapp3.1\predicateEA.AssemblyInfoInputs.cache
+C:\Users\1255968\Desktop\prog\C#\predicateEA\predicateEA\obj\Debug\netcoreapp3.1\predicateEA.AssemblyInfo.cs
+C:\Users\1255968\Desktop\prog\C#\predicateEA\predicateEA\obj\Debug\netcoreapp3.1\predicateEA.csproj.CoreCompileInputs.cache
+C:\Users\1255968\Desktop\prog\C#\predicateEA\predicateEA\obj\Debug\netcoreapp3.1\predicateEA.dll
+C:\Users\1255968\Desktop\prog\C#\predicateEA\predicateEA\obj\Debug\netcoreapp3.1\predicateEA.pdb
+C:\Users\1255968\Desktop\prog\C#\predicateEA\predicateEA\obj\Debug\netcoreapp3.1\predicateEA.genruntimeconfig.cache
